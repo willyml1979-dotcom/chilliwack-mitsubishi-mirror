@@ -1,6 +1,6 @@
 {
   "dealership": "Chilliwack Mitsubishi",
-  "generated_at": "2026-09-27T01:32:46",
+  "generated_at": "2026-10-08T14:34:59",
   "vehicle_count": 172,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -14,7 +14,9 @@
       "last_verified": "2026-09-27T01:06:25",
       "price": 9950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2002Mercedes-BenzC-ClassC230 Kompressor Sport Automatic",
@@ -27,7 +29,9 @@
       "last_verified": "2026-09-27T01:06:38",
       "price": 6500.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2003BMW3 Series325xi 4dr Sdn AWD",
@@ -40,7 +44,9 @@
       "last_verified": "2026-09-27T01:06:48",
       "price": 3450.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2003DodgeDakotaClub Cab 6.5 Ft Box Sport",
@@ -53,7 +59,9 @@
       "last_verified": "2026-09-27T01:07:01",
       "price": 4550.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2004Mercedes-BenzE-ClassE320 4matic Sedan",
@@ -66,7 +74,9 @@
       "last_verified": "2026-09-27T01:07:14",
       "price": 7950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2007JeepCommander4WD 4dr Limited",
@@ -78,7 +88,9 @@
       "last_verified": "2026-09-27T01:07:24",
       "price": 8750.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2008HondaOdyssey",
@@ -90,7 +102,9 @@
       "last_verified": "2026-09-27T01:07:35",
       "price": 12900.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2009BuickEnclaveAWD 4dr Cx",
@@ -103,7 +117,9 @@
       "last_verified": "2026-09-27T01:07:46",
       "price": 9950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2009MitsubishiLancer4dr Sdn Man De",
@@ -116,7 +132,9 @@
       "last_verified": "2026-09-27T01:07:57",
       "price": 5950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2010DodgeRam 35004WD Crew Cab SLT 6.7l Cummings 1st-Gen Diesel",
@@ -129,7 +147,9 @@
       "last_verified": "2026-09-27T01:29:53",
       "price": 38750.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2010FordF-1504WD Supercrew Styleside 5-1/2 Ft Box XLT",
@@ -142,7 +162,9 @@
       "last_verified": "2026-09-27T01:30:05",
       "price": 10950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2011FordF-1504WD Supercrew Styleside 5-1/2 Ft Box XLT",
@@ -153,7 +175,9 @@
       "source_url": "https://www.chilliwackmitsubishi.ca/inventory/2011-ford-f-150-xlt-dH7CnI5pScO54DsqJjPhlwvdp",
       "dealer_url": "https://www.chilliwackmitsubishi.ca/inventory/2011-ford-f-150-xlt-dH7CnI5pScO54DsqJjPhlwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:08:09",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2012BMW3 Series4dr Sdn 320i RWD",
@@ -165,7 +189,9 @@
       "last_verified": "2026-09-27T01:08:19",
       "price": 8250.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2013BMWX6AWD 4dr 35i M Pkg",
@@ -178,7 +204,9 @@
       "last_verified": "2026-09-27T01:08:30",
       "price": 22300.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2013DodgeJourneyAWD 4dr R/T",
@@ -191,7 +219,9 @@
       "last_verified": "2026-09-27T01:08:42",
       "price": 10250.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2013ToyotaHighlander4WD 4dr",
@@ -204,7 +234,9 @@
       "last_verified": "2026-09-27T01:08:55",
       "price": 19250.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2014DodgeGrand Caravan4dr Wgn SE",
@@ -217,7 +249,9 @@
       "last_verified": "2026-09-27T01:09:06",
       "price": 13000.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2014FordMustang2dr Conv GT",
@@ -230,7 +264,9 @@
       "last_verified": "2026-09-27T01:30:17",
       "price": 31300.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2014VolkswagenJetta Sedan4dr 1.8 TSI Auto Highline",
@@ -243,7 +279,9 @@
       "last_verified": "2026-09-27T01:09:19",
       "price": 9100.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2015GMCSierra 3500HD4WD Crew Cab Standard Box Sle",
@@ -256,7 +294,9 @@
       "last_verified": "2026-09-27T01:09:32",
       "price": 28650.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2015HondaAccord CoupeTouring",
@@ -269,7 +309,9 @@
       "last_verified": "2026-09-27T01:30:26",
       "price": 16800.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2016ChevroletSonic4dr Sdn LT Auto",
@@ -282,7 +324,9 @@
       "last_verified": "2026-09-27T01:09:44",
       "price": 8650.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2016HondaPilot4WD Touring",
@@ -295,7 +339,9 @@
       "last_verified": "2026-09-27T01:30:40",
       "price": 16500.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2016PorscheCayenneAWD 4dr",
@@ -308,7 +354,9 @@
       "last_verified": "2026-09-27T01:30:52",
       "price": 27000.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2016ToyotaCorolla4dr Sdn Auto Ce",
@@ -321,7 +369,9 @@
       "last_verified": "2026-09-27T01:09:55",
       "price": 15100.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2016ToyotaTundra4WD Crewmax Short Bed 5.7l Platinum",
@@ -334,7 +384,9 @@
       "last_verified": "2026-09-27T01:10:07",
       "price": 43850.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2017BMWX4AWD 4dr M40i",
@@ -347,7 +399,9 @@
       "last_verified": "2026-09-27T01:10:20",
       "price": 26400.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2017ChryslerPacifica4dr Wgn Touring-L",
@@ -360,7 +414,9 @@
       "last_verified": "2026-09-27T01:10:31",
       "price": 17400.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2017DodgeGrand Caravan4dr Wgn SXT Premium Plus",
@@ -373,7 +429,9 @@
       "last_verified": "2026-09-27T01:31:05",
       "price": 7950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2017DodgeJourney4dr Canada Value Pkg",
@@ -386,7 +444,9 @@
       "last_verified": "2026-09-27T01:10:43",
       "price": 17200.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2017FordFusionSport AWD Leather",
@@ -398,7 +458,9 @@
       "last_verified": "2026-09-27T01:10:54",
       "price": 9750.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2017GMCTerrainSle",
@@ -411,7 +473,9 @@
       "last_verified": "2026-09-27T01:31:16",
       "price": 15000.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2017HyundaiAccent5dr HB Auto SE",
@@ -424,7 +488,9 @@
       "last_verified": "2026-09-27T01:11:08",
       "price": 11500.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2017HyundaiTucsonAWD 4dr 2.0l SE",
@@ -437,7 +503,9 @@
       "last_verified": "2026-09-27T01:11:21",
       "price": 15700.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2017JeepCherokee4WD 4dr Overland",
@@ -448,7 +516,9 @@
       "source_url": "https://www.chilliwackmitsubishi.ca/inventory/2017-jeep-cherokee-overland-3RBx2B61RfuviXJ9NcZ7nQvdp",
       "dealer_url": "https://www.chilliwackmitsubishi.ca/inventory/2017-jeep-cherokee-overland-3RBx2B61RfuviXJ9NcZ7nQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:11:34",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2017KiaForte4dr Sdn Auto EX",
@@ -461,7 +531,9 @@
       "last_verified": "2026-09-27T01:11:45",
       "price": 12150.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2017Ram15004WD Crew Cab 5.7 Ft Box Sport",
@@ -473,7 +545,9 @@
       "last_verified": "2026-09-27T01:11:57",
       "price": 23300.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2018ChevroletSilverado 1500Crew Cab Short Box 4-Wheel Drive Custom",
@@ -486,7 +560,9 @@
       "last_verified": "2026-09-27T01:31:28",
       "price": 31900.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2018FordFocusSE Hatch",
@@ -499,7 +575,9 @@
       "last_verified": "2026-09-27T01:12:09",
       "price": 10850.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2018HyundaiSanta Fe Sport2.0t SE AWD",
@@ -512,7 +590,9 @@
       "last_verified": "2026-09-27T01:12:22",
       "price": 17400.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2018JaguarF-TYPECoupe 296hp Auto",
@@ -525,7 +605,9 @@
       "last_verified": "2026-09-27T01:31:41",
       "price": 38250.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2018JeepCherokeeTrailhawk 4x4",
@@ -538,7 +620,9 @@
       "last_verified": "2026-09-27T01:31:52",
       "price": 18450.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2018JeepCompassTrailhawk 4x4",
@@ -551,7 +635,9 @@
       "last_verified": "2026-09-27T01:32:06",
       "price": 19000.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2018JeepGrand CherokeeAltitude Iv 4x4",
@@ -564,7 +650,9 @@
       "last_verified": "2026-09-27T01:12:35",
       "price": 18500.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2018Ram1500Limited 4x4 Crew Cab 5'7\" Box",
@@ -577,7 +665,9 @@
       "last_verified": "2026-09-27T01:12:46",
       "price": 31200.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2018Ram1500Sport 4x4 Crew Cab 6'4\" Box",
@@ -590,7 +680,9 @@
       "last_verified": "2026-09-27T01:12:57",
       "price": 39900.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019CadillacXT4AWD 4dr Sport",
@@ -603,7 +695,9 @@
       "last_verified": "2026-09-27T01:13:09",
       "price": 24600.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019ChevroletEquinoxAWD 4dr LT w/2LT",
@@ -616,7 +710,9 @@
       "last_verified": "2026-09-27T01:13:21",
       "price": 16950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019ChevroletMalibu4dr Sdn LT w/1LT",
@@ -629,7 +725,9 @@
       "last_verified": "2026-09-27T01:32:17",
       "price": 16850.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019DodgeJourneySXT",
@@ -642,7 +740,9 @@
       "last_verified": "2026-09-27T01:13:33",
       "price": 19950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019FordExpeditionXLT 4x4 Leather Pano Roof Nav",
@@ -655,7 +755,9 @@
       "last_verified": "2026-09-27T01:13:44",
       "price": 39950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019FordF-150XLT 4WD Supercrew w/Midnight Pkg",
@@ -668,7 +770,9 @@
       "last_verified": "2026-09-27T01:13:55",
       "price": 31900.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019HyundaiSonata2.4l Preferred",
@@ -681,7 +785,9 @@
       "last_verified": "2026-09-27T01:14:08",
       "price": 14950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019HyundaiTucsonLuxury AWD",
@@ -694,7 +800,9 @@
       "last_verified": "2026-09-27T01:14:22",
       "price": 17200.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019JeepCherokeeTrailhawk 4x4",
@@ -707,7 +815,9 @@
       "last_verified": "2026-09-27T01:14:35",
       "price": 21950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019JeepCherokeeTrailhawk Elite 4x4",
@@ -720,7 +830,9 @@
       "last_verified": "2026-09-27T01:32:30",
       "price": 20500.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019JeepCompassHigh Altitude 4x4",
@@ -733,7 +845,9 @@
       "last_verified": "2026-09-27T01:14:49",
       "price": 16000.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019KiaSorentoLX Midnight Pkg",
@@ -746,7 +860,9 @@
       "last_verified": "2026-09-27T01:15:00",
       "price": 17700.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019MitsubishiEclipse CrossGT S-AWC",
@@ -759,7 +875,9 @@
       "last_verified": "2026-09-27T01:15:13",
       "price": 15100.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019MitsubishiOutlander PHEVGT S-AWC",
@@ -772,7 +890,9 @@
       "last_verified": "2026-09-27T01:32:41",
       "price": 32650.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019NissanKicksSV",
@@ -785,7 +905,9 @@
       "last_verified": "2026-09-23T22:58:33",
       "price": 13250.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019NissanRogueAWD",
@@ -798,7 +920,9 @@
       "last_verified": "2026-09-27T01:15:25",
       "price": 13850.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019NissanSentraS CVT",
@@ -811,7 +935,9 @@
       "last_verified": "2026-09-23T22:58:46",
       "price": 15100.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019Ram1500 ClassicTradesman 4x4 Crew Cab 5'7\" Box",
@@ -824,7 +950,9 @@
       "last_verified": "2026-09-27T01:15:36",
       "price": 22500.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019Ram1500Tradesman 4x4 Crew Cab 6'4\" Box",
@@ -837,7 +965,9 @@
       "last_verified": "2026-09-27T01:15:48",
       "price": 31400.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019SubaruWRXManual",
@@ -850,7 +980,9 @@
       "last_verified": "2026-09-23T22:58:58",
       "price": 26950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019ToyotaCorolla HatchbackSE",
@@ -863,7 +995,9 @@
       "last_verified": "2026-09-23T22:59:07",
       "price": 20250.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019ToyotaCorollaLE CVT",
@@ -876,7 +1010,9 @@
       "last_verified": "2026-09-27T01:15:59",
       "price": 14650.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2019VolkswagenTiguanTrendline",
@@ -889,7 +1025,9 @@
       "last_verified": "2026-09-27T01:16:13",
       "price": 18500.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2020FordEcoSportSes 4WD",
@@ -902,7 +1040,9 @@
       "last_verified": "2026-09-23T22:59:20",
       "price": 16500.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2020GMCTerrainAWD Sle",
@@ -915,7 +1055,9 @@
       "last_verified": "2026-09-23T22:59:32",
       "price": 25150.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2020HondaCR-VBlack Edition AWD",
@@ -928,7 +1070,9 @@
       "last_verified": "2026-09-27T01:16:23",
       "price": 28700.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2020HyundaiPalisadeLuxury 8-Passenger AWD w/ Midnight Pkg",
@@ -941,7 +1085,9 @@
       "last_verified": "2026-09-27T01:16:36",
       "price": 25500.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2020JeepCherokeeTrailhawk 4x4",
@@ -954,7 +1100,9 @@
       "last_verified": "2026-09-23T22:59:42",
       "price": 25100.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2020KiaSorentoLX AWD",
@@ -967,7 +1115,9 @@
       "last_verified": "2026-09-27T01:16:47",
       "price": 21150.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2020MitsubishiEclipse CrossSE S-AWC",
@@ -980,7 +1130,9 @@
       "last_verified": "2026-09-27T01:16:58",
       "price": 19999.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2020MitsubishiOutlanderEX-L S-AWC",
@@ -993,7 +1145,9 @@
       "last_verified": "2026-09-27T01:17:12",
       "price": 19500.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2021FordBronco SportBadlands 4x4",
@@ -1006,7 +1160,9 @@
       "last_verified": "2026-09-27T01:17:25",
       "price": 24300.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2021HyundaiSanta FeEssential AWD",
@@ -1019,7 +1175,9 @@
       "last_verified": "2026-09-27T01:17:39",
       "price": 21100.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2021JeepCompass80th Anniversary 4x4",
@@ -1032,7 +1190,9 @@
       "last_verified": "2026-09-27T01:17:52",
       "price": 15350.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2021JeepGrand CherokeeOverland 4x4",
@@ -1045,7 +1205,9 @@
       "last_verified": "2026-09-27T01:18:04",
       "price": 37250.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2021MitsubishiRVRSE AWC",
@@ -1058,7 +1220,9 @@
       "last_verified": "2026-09-27T01:18:15",
       "price": 18950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2021MitsubishiRVRSE AWC",
@@ -1071,7 +1235,9 @@
       "last_verified": "2026-09-27T01:18:30",
       "price": 19400.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2021NissanRogueAWD SV",
@@ -1084,7 +1250,9 @@
       "last_verified": "2026-09-27T01:18:43",
       "price": 21950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2021Ram1500 ClassicExpress 4x4 Crew Cab 5'7\" Box",
@@ -1097,7 +1265,9 @@
       "last_verified": "2026-09-27T01:18:55",
       "price": 29100.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2021Ram1500 ClassicExpress 4x4 Crew Cab 5'7\" Box",
@@ -1110,7 +1280,9 @@
       "last_verified": "2026-09-27T01:19:08",
       "price": 39000.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2021Ram1500 ClassicWarlock 4x4 Crew Cab 5'7\" Box",
@@ -1123,7 +1295,9 @@
       "last_verified": "2026-09-27T01:19:21",
       "price": 35950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2021Ram1500 ClassicWarlock 4x4 Crew Cab 5'7\" Box",
@@ -1136,7 +1310,9 @@
       "last_verified": "2026-09-27T01:19:32",
       "price": 35450.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2021Ram1500 ClassicWarlock 4x4 Crew Cab 5'7\" Box",
@@ -1149,7 +1325,9 @@
       "last_verified": "2026-09-27T01:19:44",
       "price": 35950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2021Ram1500Sport 4x4 Crew Cab 5'7\" Box",
@@ -1160,7 +1338,9 @@
       "source_url": "https://www.chilliwackmitsubishi.ca/inventory/2021-ram-1500-sport-6HOx2j1HSZyBT83vhoV9twvdp",
       "dealer_url": "https://www.chilliwackmitsubishi.ca/inventory/2021-ram-1500-sport-6HOx2j1HSZyBT83vhoV9twvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-27T01:19:57",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2021TeslaModel 3",
@@ -1173,7 +1353,9 @@
       "last_verified": "2026-09-23T22:59:53",
       "price": 27200.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2022CadillacXT5AWD Premium Luxury w/ Midnight Pkg",
@@ -1186,7 +1368,9 @@
       "last_verified": "2026-09-27T01:20:09",
       "price": 34400.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2022ChevroletMalibu4dr Sdn LT",
@@ -1199,7 +1383,9 @@
       "last_verified": "2026-09-27T01:20:21",
       "price": 19450.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2022ChevroletMalibuLT w/ Midnight Pkg",
@@ -1212,7 +1398,9 @@
       "last_verified": "2026-09-27T01:20:34",
       "price": 19000.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2022ChevroletMalibuLT w/ Midnight Pkg",
@@ -1225,7 +1413,9 @@
       "last_verified": "2026-09-27T01:20:45",
       "price": 19600.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2022ChryslerPacificaTouring AWD",
@@ -1238,7 +1428,9 @@
       "last_verified": "2026-09-27T01:20:57",
       "price": 36450.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2022Forest RiverWOLF PUP",
@@ -1250,7 +1442,9 @@
       "last_verified": "2026-09-27T01:21:09",
       "price": 29950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2022JeepGrand Cherokee 4xe4x4",
@@ -1263,7 +1457,9 @@
       "last_verified": "2026-09-27T01:21:21",
       "price": 44100.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2022MitsubishiOutlander",
@@ -1276,7 +1472,9 @@
       "last_verified": "2026-09-27T01:21:32",
       "price": 25300.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2022Ram1500Big Horn 4x4 Quad Cab 6'4\" Box",
@@ -1289,7 +1487,9 @@
       "last_verified": "2026-09-27T01:21:45",
       "price": 45150.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2022TriumphStreet Twin",
@@ -1301,7 +1501,9 @@
       "last_verified": "2026-09-27T01:21:57",
       "price": 11950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023JeepGrand Cherokee 4xeTrailhawk 4x4",
@@ -1314,7 +1516,9 @@
       "last_verified": "2026-09-27T01:22:08",
       "price": 51300.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023MazdaCX-5Signature AWD",
@@ -1327,7 +1531,9 @@
       "last_verified": "2026-09-27T01:22:19",
       "price": 35650.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023MitsubishiOutlanderES S-AWC",
@@ -1340,7 +1546,9 @@
       "last_verified": "2026-09-27T01:22:33",
       "price": 26100.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023MitsubishiOutlanderSE S-AWC",
@@ -1353,7 +1561,9 @@
       "last_verified": "2026-09-27T01:22:45",
       "price": 29150.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023MitsubishiRVRES AWC",
@@ -1366,7 +1576,9 @@
       "last_verified": "2026-09-27T01:22:57",
       "price": 20450.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023MitsubishiRVRES",
@@ -1379,7 +1591,9 @@
       "last_verified": "2026-09-27T01:23:07",
       "price": 20450.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023NissanArmada4x4 SL w/ Midnight Pkg 8 Passenger",
@@ -1391,7 +1605,9 @@
       "last_verified": "2026-09-27T01:23:20",
       "price": 39200.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023NissanMuranoAWD SV",
@@ -1404,7 +1620,9 @@
       "last_verified": "2026-09-27T01:23:33",
       "price": 25900.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023NissanQashqaiAWD w/Midnight Pkg",
@@ -1417,7 +1635,9 @@
       "last_verified": "2026-09-27T01:23:43",
       "price": 19950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023Ram1500 ClassicSLT 4x4 Crew Cab 5'7\" Box",
@@ -1430,7 +1650,9 @@
       "last_verified": "2026-09-27T01:23:54",
       "price": 40750.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023Ram1500 ClassicWarlock 4x4 Crew Cab 5'7\" Box",
@@ -1443,7 +1665,9 @@
       "last_verified": "2026-09-27T01:24:07",
       "price": 46950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023Ram1500Tradesman 4x4 Crew Cab 5'7\" Box",
@@ -1456,7 +1680,9 @@
       "last_verified": "2026-09-23T23:00:04",
       "price": 47900.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2023ToyotaRAV4LE AWD",
@@ -1469,7 +1695,9 @@
       "last_verified": "2026-09-27T01:24:18",
       "price": 35100.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024FordEscapePlatinum AWD",
@@ -1482,7 +1710,9 @@
       "last_verified": "2026-09-27T01:24:32",
       "price": 30950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024FordF-150XLT 3.5l Crew Fx4 Pkg w/ Leather",
@@ -1495,7 +1725,9 @@
       "last_verified": "2026-09-27T01:24:43",
       "price": 62000.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024HyundaiTucsonPreferred AWD",
@@ -1508,7 +1740,9 @@
       "last_verified": "2026-09-27T01:24:58",
       "price": 28950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024JeepCompassNorth 4x4",
@@ -1521,7 +1755,9 @@
       "last_verified": "2026-09-27T01:25:12",
       "price": 32400.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024MitsubishiEclipse CrossSE S-AWC",
@@ -1534,7 +1770,9 @@
       "last_verified": "2026-09-27T01:25:25",
       "price": 26450.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024MitsubishiEclipse CrossSE S-AWC",
@@ -1547,7 +1785,9 @@
       "last_verified": "2026-09-27T01:25:38",
       "price": 25850.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024MitsubishiOutlanderES S-AWC",
@@ -1560,7 +1800,9 @@
       "last_verified": "2026-09-27T01:25:52",
       "price": 34350.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024MitsubishiOutlanderSE S-AWC",
@@ -1572,7 +1814,9 @@
       "last_verified": "2026-09-27T01:26:05",
       "price": 33250.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024MitsubishiOutlanderSE S-AWC",
@@ -1585,7 +1829,9 @@
       "last_verified": "2026-09-27T01:26:18",
       "price": 32100.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024MitsubishiOutlanderSEL S-AWC",
@@ -1598,7 +1844,9 @@
       "last_verified": "2026-09-27T01:26:31",
       "price": 31850.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024MitsubishiRVRES AWC",
@@ -1611,7 +1859,9 @@
       "last_verified": "2026-09-27T01:26:43",
       "price": 22700.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024MitsubishiRVRGT AWC",
@@ -1624,7 +1874,9 @@
       "last_verified": "2026-09-27T01:26:56",
       "price": 26350.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024MitsubishiRVR",
@@ -1637,7 +1889,9 @@
       "last_verified": "2026-09-27T01:27:07",
       "price": 25500.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024NissanKicksSR",
@@ -1649,7 +1903,9 @@
       "last_verified": "2026-09-27T01:27:21",
       "price": 24400.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024NissanVersaS CVT",
@@ -1662,7 +1918,9 @@
       "last_verified": "2026-09-23T23:00:27",
       "price": 23650.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2024Ram3500Limited 4x4 Mega Cab 6'4\" Box",
@@ -1675,7 +1933,9 @@
       "last_verified": "2026-09-27T01:27:33",
       "price": 98000.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025HyundaiTucson HybridUltimate AWD",
@@ -1688,7 +1948,9 @@
       "last_verified": "2026-09-23T23:00:38",
       "price": 45000.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025MazdaCX-5GS AWD",
@@ -1701,7 +1963,9 @@
       "last_verified": "2026-09-27T01:27:46",
       "price": 33750.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025MitsubishiOutlanderLE S-AWC",
@@ -1714,7 +1978,9 @@
       "last_verified": "2026-09-27T01:27:57",
       "price": 40950.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025MitsubishiOutlander PHEVSEL S-AWC",
@@ -1727,7 +1993,9 @@
       "last_verified": "2026-09-27T01:28:10",
       "price": 48500.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2025MitsubishiOutlanderSEL S-AWC",
@@ -1740,7 +2008,9 @@
       "last_verified": "2026-09-27T01:28:22",
       "price": 40800.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026MitsubishiEclipse CrossES S-AWC",
@@ -1753,7 +2023,9 @@
       "last_verified": "2026-09-23T23:00:51",
       "price": 31650.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026MitsubishiOutlander PHEVGT S-AWCAWD",
@@ -1766,7 +2038,9 @@
       "last_verified": "2026-09-27T01:28:36",
       "price": 58923.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026MitsubishiOutlander PHEVSE S-AWC",
@@ -1779,7 +2053,9 @@
       "last_verified": "2026-09-27T01:28:48",
       "price": 53400.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026MitsubishiRVRSEL AWC",
@@ -1792,7 +2068,9 @@
       "last_verified": "2026-09-23T23:01:04",
       "price": 31500.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRSE AWC4x4",
@@ -1805,7 +2083,9 @@
       "last_verified": "2026-09-27T01:29:01",
       "price": 31733.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRSE AWC4x4",
@@ -1818,7 +2098,9 @@
       "last_verified": "2026-09-27T01:29:15",
       "price": 31983.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRSE AWC4x4",
@@ -1831,7 +2113,9 @@
       "last_verified": "2026-09-27T01:29:29",
       "price": 31983.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRSE AWC4x4",
@@ -1844,7 +2128,9 @@
       "last_verified": "2026-09-27T01:29:42",
       "price": 31983.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026MitsubishiEclipse CrossES S-AWC4x4",
@@ -1858,7 +2144,9 @@
       "price": 31173.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026MitsubishiEclipse CrossES S-AWC4x4",
@@ -1872,7 +2160,9 @@
       "price": 31173.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026MitsubishiEclipse CrossNOIR S-AWC4x4",
@@ -1886,7 +2176,9 @@
       "price": 38273.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026MitsubishiEclipse CrossNOIR S-AWC4x4",
@@ -1900,7 +2192,9 @@
       "price": 38273.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026MitsubishiEclipse CrossNOIR S-AWC4x4",
@@ -1914,7 +2208,9 @@
       "price": 38273.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026MitsubishiEclipse CrossNOIR S-AWC4x4",
@@ -1928,7 +2224,9 @@
       "price": 38273.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026MitsubishiEclipse CrossNOIR S-AWC4x4",
@@ -1942,7 +2240,9 @@
       "price": 38273.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026MitsubishiEclipse CrossNOIR S-AWC4x4",
@@ -1956,7 +2256,9 @@
       "price": 38273.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026MitsubishiEclipse CrossSE S-AWC4x4",
@@ -1970,7 +2272,9 @@
       "price": 34873.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026MitsubishiEclipse CrossSE S-AWC4x4",
@@ -1984,7 +2288,9 @@
       "price": 35123.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026MitsubishiEclipse CrossSE S-AWC4x4",
@@ -1998,7 +2304,9 @@
       "price": 34873.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026MitsubishiEclipse CrossSE S-AWC4x4",
@@ -2012,7 +2320,9 @@
       "price": 35123.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2026MitsubishiRVRES FWD",
@@ -2026,7 +2336,9 @@
       "price": 26823.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRES FWD",
@@ -2039,7 +2351,9 @@
       "last_verified": "2026-09-23T23:07:54",
       "price": 27233.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRES FWD",
@@ -2052,7 +2366,9 @@
       "last_verified": "2026-09-23T23:08:05",
       "price": 27233.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRES FWD",
@@ -2065,7 +2381,9 @@
       "last_verified": "2026-09-23T23:08:19",
       "price": 27233.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRES FWD",
@@ -2078,7 +2396,9 @@
       "last_verified": "2026-09-23T23:08:29",
       "price": 27233.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRES FWD",
@@ -2091,7 +2411,9 @@
       "last_verified": "2026-09-23T23:08:42",
       "price": 27233.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRES FWD",
@@ -2104,7 +2426,9 @@
       "last_verified": "2026-09-23T23:08:55",
       "price": 26883.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRES FWD",
@@ -2117,7 +2441,9 @@
       "last_verified": "2026-09-23T23:09:05",
       "price": 27233.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRES FWD",
@@ -2130,7 +2456,9 @@
       "last_verified": "2026-09-23T23:09:16",
       "price": 26883.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRES FWD",
@@ -2143,7 +2471,9 @@
       "last_verified": "2026-09-23T23:09:26",
       "price": 27233.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRES FWD",
@@ -2156,7 +2486,9 @@
       "last_verified": "2026-09-23T23:09:38",
       "price": 27233.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRSE AWC4x4",
@@ -2169,7 +2501,9 @@
       "last_verified": "2026-09-23T23:09:49",
       "price": 31733.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRSE AWC4x4",
@@ -2182,7 +2516,9 @@
       "last_verified": "2026-09-23T23:10:01",
       "price": 31983.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRSE AWC4x4",
@@ -2195,7 +2531,9 @@
       "last_verified": "2026-09-23T23:10:14",
       "price": 31983.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRSE AWC4x4",
@@ -2208,7 +2546,9 @@
       "last_verified": "2026-09-23T23:10:26",
       "price": 31983.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRSE AWC4x4",
@@ -2221,7 +2561,9 @@
       "last_verified": "2026-09-23T23:10:36",
       "price": 31983.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "2027MitsubishiRVRSE AWC4x4",
@@ -2234,7 +2576,9 @@
       "last_verified": "2026-09-23T23:10:46",
       "price": 31983.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     }
   ]
 }
