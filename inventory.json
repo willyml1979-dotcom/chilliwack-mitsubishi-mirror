@@ -1,7 +1,7 @@
 {
   "dealership": "Chilliwack Mitsubishi",
-  "generated_at": "2026-11-16T16:54:23",
-  "vehicle_count": 371,
+  "generated_at": "2026-11-16T17:14:32",
+  "vehicle_count": 437,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2434,11 +2434,33 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025MitsubishiOutlanderGTAWD",
+      "vin": "JA4J4VA80SZ625792",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/09d4fc30183b.html",
+      "condition": "new"
+    },
+    {
+      "name": "2025MitsubishiOutlander PHEVES S-AWCAWD",
+      "vin": "JA4T5UA97SZ614183",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/81845dcf5d78.html",
+      "condition": "new",
+      "price": 41999.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025MitsubishiOutlanderSEL S-AWCAWD",
       "vin": "JA4J4VA8XSZ614623",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/3f704ada68f2.html",
       "condition": "new",
-      "price": 40598.0,
+      "price": 40499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025MitsubishiOutlanderSEL S-AWCAWD",
+      "vin": "JA4J4VA8XSZ614623",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/25667be57f48.html",
+      "condition": "new",
+      "price": 40499.0,
       "price_currency": "CAD"
     },
     {
@@ -2450,11 +2472,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025MitsubishiOutlanderSEL S-AWC Midnight PkgAWD",
+      "vin": "JA4J4VA84SZ621423",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/b45b28c8fbe3.html",
+      "condition": "new",
+      "price": 40499.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025MitsubishiOutlanderSEL S-AWCAWD",
       "vin": "JA4J4VA81SZ620374",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/864135f02d40.html",
       "condition": "new",
       "price": 40598.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025MitsubishiOutlanderSEL S-AWCAWD",
+      "vin": "JA4J4VA81SZ620374",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/c97990107799.html",
+      "condition": "new",
+      "price": 40499.0,
       "price_currency": "CAD"
     },
     {
@@ -2467,6 +2505,14 @@
     },
     {
       "name": "2026MitsubishiEclipse CrossES S-AWC4x4",
+      "vin": "JA4ATUAA2TZ625231",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/e6a6e4665151.html",
+      "condition": "new",
+      "price": 28899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiEclipse CrossES S-AWC4x4",
       "vin": "JA4ATUAA0TZ622778",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/e476c2f63b55.html",
       "condition": "new",
@@ -2475,10 +2521,34 @@
     },
     {
       "name": "2026MitsubishiEclipse CrossES S-AWC4x4",
+      "vin": "JA4ATUAA0TZ622778",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/51365f7286f3.html",
+      "condition": "new",
+      "price": 28899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiEclipse CrossES S-AWC4x4",
       "vin": "JA4ATUAA6TZ625202",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/48f322f7e309.html",
       "condition": "new",
       "price": 31173.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiEclipse CrossES S-AWC4x4",
+      "vin": "JA4ATUAA6TZ625202",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/2d20a7311301.html",
+      "condition": "new",
+      "price": 28899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiEclipse CrossGT S-AWC4x4",
+      "vin": "JA4ATVAAXTZ628500",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/722b4aa40f55.html",
+      "condition": "new",
+      "price": 37899.0,
       "price_currency": "CAD"
     },
     {
@@ -2499,10 +2569,26 @@
     },
     {
       "name": "2026MitsubishiEclipse CrossNOIR S-AWC4x4",
+      "vin": "JA4ATVAA8TZ620475",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/704a60c4e2a0.html",
+      "condition": "new",
+      "price": 35899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiEclipse CrossNOIR S-AWC4x4",
       "vin": "JA4ATVAA2TZ625154",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/35d6f14b1a3e.html",
       "condition": "new",
       "price": 38273.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiEclipse CrossNOIR S-AWC4x4",
+      "vin": "JA4ATVAA2TZ625154",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/5d1cb26065ec.html",
+      "condition": "new",
+      "price": 35899.0,
       "price_currency": "CAD"
     },
     {
@@ -2530,6 +2616,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026MitsubishiEclipse CrossNOIR S-AWC4x4",
+      "vin": "JA4ATVAA0TZ621989",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/fb265cabfa7f.html",
+      "condition": "new",
+      "price": 35899.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026MitsubishiEclipse CrossSE S-AWC4x4",
       "vin": "JA4ATVAA5TZ625486",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/1b85964c2f47.html",
@@ -2539,10 +2633,34 @@
     },
     {
       "name": "2026MitsubishiEclipse CrossSE S-AWC4x4",
+      "vin": "JA4ATVAA5TZ625486",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/297cbd501a91.html",
+      "condition": "new",
+      "price": 33299.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiEclipse CrossSE S-AWC4x4",
       "vin": "JA4ATVAA5TZ604380",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/48a2ae592bf5.html",
       "condition": "new",
       "price": 35123.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiEclipse CrossSE S-AWC4x4",
+      "vin": "JA4ATVAA5TZ604380",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/714c15d84ffd.html",
+      "condition": "new",
+      "price": 30899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiEclipse CrossSE S-AWC4x4",
+      "vin": "JA4ATVAAXTZ626908",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/94092ca627ca.html",
+      "condition": "new",
+      "price": 33299.0,
       "price_currency": "CAD"
     },
     {
@@ -2562,11 +2680,35 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026MitsubishiEclipse CrossSE S-AWC4x4",
+      "vin": "JA4ATVAA4TZ617301",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/ab4f6eb43292.html",
+      "condition": "new",
+      "price": 33299.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiEclipse CrossSE S-AWC4x4",
+      "vin": "JA4ATVAA3TZ626782",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/4ff6a0156d0c.html",
+      "condition": "new",
+      "price": 33299.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026MitsubishiOutlanderGT S-AWCAWD",
       "vin": "JA4J4WAB2TZ623772",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/10c8a6c24d84.html",
       "condition": "new",
       "price": 47473.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiOutlanderGT S-AWCAWD",
+      "vin": "JA4J4WAB2TZ623772",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/0a3e5ae62a6d.html",
+      "condition": "new",
+      "price": 44899.0,
       "price_currency": "CAD"
     },
     {
@@ -2579,10 +2721,26 @@
     },
     {
       "name": "2026MitsubishiOutlanderGT S-AWCAWD",
+      "vin": "JA4J4WAB5TZ624365",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/db5bae1b93ab.html",
+      "condition": "new",
+      "price": 44899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiOutlanderGT S-AWCAWD",
       "vin": "JA4J4WAB1TZ615873",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/efa7a2033d10.html",
       "condition": "new",
       "price": 47473.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiOutlanderGT S-AWCAWD",
+      "vin": "JA4J4WAB1TZ615873",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/0a0350f5cb28.html",
+      "condition": "new",
+      "price": 44899.0,
       "price_currency": "CAD"
     },
     {
@@ -2593,9 +2751,25 @@
     },
     {
       "name": "2026MitsubishiOutlander PHEVES S-AWCAWD",
+      "vin": "JA4T5UA97TZ611723",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/76d69cfeb61c.html",
+      "condition": "new",
+      "price": 44573.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiOutlander PHEVES S-AWCAWD",
       "vin": "JA4T5UA91TZ611538",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/8153cfe80f3e.html",
       "condition": "new"
+    },
+    {
+      "name": "2026MitsubishiOutlander PHEVES S-AWCAWD",
+      "vin": "JA4T5UA91TZ611538",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/680b1b6c1d72.html",
+      "condition": "new",
+      "price": 44773.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026MitsubishiOutlander PHEVES S-AWCAWD",
@@ -2605,9 +2779,25 @@
     },
     {
       "name": "2026MitsubishiOutlander PHEVES S-AWCAWD",
+      "vin": "JA4T5UA94TZ611940",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/c69eb7127873.html",
+      "condition": "new",
+      "price": 44773.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiOutlander PHEVES S-AWCAWD",
       "vin": "JA4T5UA9XTZ611926",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/e6c2e7a9d288.html",
       "condition": "new"
+    },
+    {
+      "name": "2026MitsubishiOutlander PHEVES S-AWCAWD",
+      "vin": "JA4T5UA9XTZ611926",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/9d016ac9a552.html",
+      "condition": "new",
+      "price": 44773.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026MitsubishiOutlander PHEVES S-AWCAWD",
@@ -2616,11 +2806,27 @@
       "condition": "new"
     },
     {
+      "name": "2026MitsubishiOutlander PHEVES S-AWCAWD",
+      "vin": "JA4T5UA93TZ608155",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/8e92af819214.html",
+      "condition": "new",
+      "price": 44773.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026MitsubishiOutlander PHEVGT S-AWCAWD",
       "vin": "JA4T5WA97TZ609966",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/1a0d6537a63c.html",
       "condition": "new",
       "price": 58923.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiOutlander PHEVGT S-AWCAWD",
+      "vin": "JA4T5WA97TZ609966",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/0821112982be.html",
+      "condition": "new",
+      "price": 55899.0,
       "price_currency": "CAD"
     },
     {
@@ -2633,10 +2839,26 @@
     },
     {
       "name": "2026MitsubishiOutlander PHEVGT S-AWCAWD",
+      "vin": "JA4T5WA98TZ625609",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/c0b591a05261.html",
+      "condition": "new",
+      "price": 55899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiOutlander PHEVGT S-AWCAWD",
       "vin": "JA4T5WA94TZ623940",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/432999486d66.html",
       "condition": "new",
       "price": 58923.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiOutlander PHEVGT S-AWCAWD",
+      "vin": "JA4T5WA94TZ623940",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/7df152f19111.html",
+      "condition": "new",
+      "price": 55899.0,
       "price_currency": "CAD"
     },
     {
@@ -2649,6 +2871,14 @@
     },
     {
       "name": "2026MitsubishiOutlander PHEVGT S-AWCAWD",
+      "vin": "JA4T5WA90TZ608237",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/3ffa52e902ed.html",
+      "condition": "new",
+      "price": 55899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiOutlander PHEVGT S-AWCAWD",
       "vin": "JA4T5WA98TZ609586",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/9309171c6787.html",
       "condition": "new",
@@ -2657,10 +2887,26 @@
     },
     {
       "name": "2026MitsubishiOutlander PHEVGT S-AWCAWD",
+      "vin": "JA4T5WA98TZ609586",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/01db48785341.html",
+      "condition": "new",
+      "price": 55899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiOutlander PHEVGT S-AWCAWD",
       "vin": "JA4T5WA95TZ626362",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/c69e0bd1d402.html",
       "condition": "new",
       "price": 58923.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiOutlander PHEVGT S-AWCAWD",
+      "vin": "JA4T5WA95TZ626362",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/3639e6096bf3.html",
+      "condition": "new",
+      "price": 55899.0,
       "price_currency": "CAD"
     },
     {
@@ -2679,6 +2925,14 @@
     },
     {
       "name": "2026MitsubishiOutlander PHEVSE S-AWCAWD",
+      "vin": "JA4T5VA92TZ625714",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/5f0d723eca54.html",
+      "condition": "new",
+      "price": 46023.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiOutlander PHEVSE S-AWCAWD",
       "vin": "JA4T5VA96TZ624887",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/14315ae78df0.html",
       "condition": "new",
@@ -2687,10 +2941,26 @@
     },
     {
       "name": "2026MitsubishiOutlander PHEVSE S-AWCAWD",
+      "vin": "JA4T5VA96TZ624887",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/a9c595d67e24.html",
+      "condition": "new",
+      "price": 45923.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiOutlander PHEVSE S-AWCAWD",
       "vin": "JA4T5VA99TZ625435",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/b603480bb6a5.html",
       "condition": "new",
       "price": 50523.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiOutlander PHEVSE S-AWCAWD",
+      "vin": "JA4T5VA99TZ625435",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/8dc5f9ba9bd9.html",
+      "condition": "new",
+      "price": 46023.0,
       "price_currency": "CAD"
     },
     {
@@ -2727,10 +2997,26 @@
     },
     {
       "name": "2026MitsubishiOutlander PHEVSEL S-AWCAWD",
+      "vin": "JA4T5VA97TZ617558",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/afd2bc1a69d0.html",
+      "condition": "new",
+      "price": 53299.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiOutlander PHEVSEL S-AWCAWD",
       "vin": "JA4T5VA96TZ617227",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/2a0949321d23.html",
       "condition": "new",
       "price": 55723.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiOutlander PHEVSEL S-AWCAWD",
+      "vin": "JA4T5VA96TZ617227",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/afd1bfaef4ce.html",
+      "condition": "new",
+      "price": 53299.0,
       "price_currency": "CAD"
     },
     {
@@ -2743,6 +3029,14 @@
     },
     {
       "name": "2026MitsubishiOutlander PHEVSEL S-AWCAWD",
+      "vin": "JA4T5VA94TZ617114",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/78ab0fc4f91e.html",
+      "condition": "new",
+      "price": 53299.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiOutlander PHEVSEL S-AWCAWD",
       "vin": "JA4T5VA98TZ626009",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/f9a7babc995c.html",
       "condition": "new",
@@ -2751,10 +3045,26 @@
     },
     {
       "name": "2026MitsubishiOutlander PHEVSEL S-AWCAWD",
+      "vin": "JA4T5VA98TZ626009",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/f3f1466978e3.html",
+      "condition": "new",
+      "price": 53299.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiOutlander PHEVSEL S-AWCAWD",
       "vin": "JA4T5VA97TZ617088",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/7047d4277dca.html",
       "condition": "new",
       "price": 55823.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MitsubishiOutlander PHEVSEL S-AWCAWD",
+      "vin": "JA4T5VA97TZ617088",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/87b6b3542667.html",
+      "condition": "new",
+      "price": 53299.0,
       "price_currency": "CAD"
     },
     {
@@ -2798,16 +3108,60 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026MitsubishiRVRES FWD",
+      "vin": "JA4AHUAUXTU604703",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/698b85824018.html",
+      "condition": "new",
+      "price": 25823.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiEclipse SportbackFWD",
+      "vin": "JN1MZ2HB5VM401538",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/fc0afd606964.html",
+      "condition": "new",
+      "price": 46353.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiEclipse SportbackFWD",
+      "vin": "JN1MZ2HB4VM402146",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/94708cff15d4.html",
+      "condition": "new"
+    },
+    {
+      "name": "2027MitsubishiOutlanderSE",
+      "vin": "JA4J4VAB3VZ601972",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/abc1f1605b8e.html",
+      "condition": "new"
+    },
+    {
       "name": "2027MitsubishiRVRES AWC4x4",
       "vin": "JA4AJUAU2VU602368",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/944b6732c6af.html",
       "condition": "new"
     },
     {
+      "name": "2027MitsubishiRVRES AWC4x4",
+      "vin": "JA4AJUAU2VU602368",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/559689cb25d8.html",
+      "condition": "new",
+      "price": 27399.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027MitsubishiRVRES FWD",
       "vin": "JA4AHUAU5VU601579",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/4008be57ccc7.html",
       "condition": "new"
+    },
+    {
+      "name": "2027MitsubishiRVRES FWD",
+      "vin": "JA4AHUAU5VU601579",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/7fd45684ac42.html",
+      "condition": "new",
+      "price": 25983.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027MitsubishiRVRES FWD",
@@ -2820,7 +3174,15 @@
       "vin": "JA4AHUAU9VU602122",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/1e791d7e93e3.html",
       "condition": "new",
-      "price": 27233.0,
+      "price": 25983.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiRVRES FWD",
+      "vin": "JA4AHUAU9VU602122",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/016a6dc5e2a0.html",
+      "condition": "new",
+      "price": 25983.0,
       "price_currency": "CAD"
     },
     {
@@ -2828,7 +3190,15 @@
       "vin": "JA4AHUAU3VU602116",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/3fbf8791f747.html",
       "condition": "new",
-      "price": 27233.0,
+      "price": 25983.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiRVRES FWD",
+      "vin": "JA4AHUAU3VU602116",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/0cc1f1647c32.html",
+      "condition": "new",
+      "price": 25983.0,
       "price_currency": "CAD"
     },
     {
@@ -2836,7 +3206,15 @@
       "vin": "JA4AHUAU4VU601749",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/c4b2bde08502.html",
       "condition": "new",
-      "price": 27233.0,
+      "price": 25983.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiRVRES FWD",
+      "vin": "JA4AHUAU4VU601749",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/542db089fbbe.html",
+      "condition": "new",
+      "price": 25983.0,
       "price_currency": "CAD"
     },
     {
@@ -2844,7 +3222,15 @@
       "vin": "JA4AHUAU3VU602097",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/e09c6c0e4b6c.html",
       "condition": "new",
-      "price": 26883.0,
+      "price": 25633.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiRVRES FWD",
+      "vin": "JA4AHUAU3VU602097",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/edcc24707dc0.html",
+      "condition": "new",
+      "price": 25633.0,
       "price_currency": "CAD"
     },
     {
@@ -2852,7 +3238,31 @@
       "vin": "JA4AHUAU5VU602134",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/5ef69cb2d51e.html",
       "condition": "new",
-      "price": 27233.0,
+      "price": 25983.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiRVRES FWD",
+      "vin": "JA4AHUAU5VU602134",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/9ed358b96e38.html",
+      "condition": "new",
+      "price": 25983.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiRVRES AWC4x4",
+      "vin": "JA4AJUAU9VU602643",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/98ade844ab5e.html",
+      "condition": "new",
+      "price": 27399.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiRVRES AWC4x4",
+      "vin": "JA4AJUAU3VU603108",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/730d33138bea.html",
+      "condition": "new",
+      "price": 27399.0,
       "price_currency": "CAD"
     },
     {
@@ -2864,11 +3274,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027MitsubishiRVRES AWC4x4",
+      "vin": "JA4AJUAUXVU603073",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/af6d6fbcd7b6.html",
+      "condition": "new",
+      "price": 27399.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027MitsubishiRVRES FWD",
       "vin": "JA4AHUAU9VU602072",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/77fe09dc059f.html",
       "condition": "new",
-      "price": 27233.0,
+      "price": 25983.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiRVRES FWD",
+      "vin": "JA4AHUAU9VU602072",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/c9ec7009ecf7.html",
+      "condition": "new",
+      "price": 25983.0,
       "price_currency": "CAD"
     },
     {
@@ -2876,7 +3302,23 @@
       "vin": "JA4AHUAU7VU602152",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/737785a7e0cc.html",
       "condition": "new",
-      "price": 27233.0,
+      "price": 25983.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiRVRES FWD",
+      "vin": "JA4AHUAU7VU602152",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/c75ef3aa3442.html",
+      "condition": "new",
+      "price": 25983.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiRVRNOIR AWC4x4",
+      "vin": "JA4AJVAW7VU603667",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/43a78b371e39.html",
+      "condition": "new",
+      "price": 33753.0,
       "price_currency": "CAD"
     },
     {
@@ -2884,7 +3326,15 @@
       "vin": "JA4AJVAW3VU601852",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/808846807418.html",
       "condition": "new",
-      "price": 31733.0,
+      "price": 29699.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiRVRSE AWC4x4",
+      "vin": "JA4AJVAW3VU601852",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/f6403c376f44.html",
+      "condition": "new",
+      "price": 29699.0,
       "price_currency": "CAD"
     },
     {
@@ -2892,7 +3342,15 @@
       "vin": "JA4AJVAW7VU602132",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/ba69cf366fb0.html",
       "condition": "new",
-      "price": 31983.0,
+      "price": 29699.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiRVRSE AWC4x4",
+      "vin": "JA4AJVAW7VU602132",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/aee4c02363e5.html",
+      "condition": "new",
+      "price": 29699.0,
       "price_currency": "CAD"
     },
     {
@@ -2900,7 +3358,15 @@
       "vin": "JA4AJVAW7VU601580",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/df3757860188.html",
       "condition": "new",
-      "price": 31983.0,
+      "price": 29699.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiRVRSE AWC4x4",
+      "vin": "JA4AJVAW7VU601580",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/b923c017936a.html",
+      "condition": "new",
+      "price": 29699.0,
       "price_currency": "CAD"
     },
     {
@@ -2908,7 +3374,15 @@
       "vin": "JA4AJVAW0VU602120",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/a0613565bae9.html",
       "condition": "new",
-      "price": 31983.0,
+      "price": 29699.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiRVRSE AWC4x4",
+      "vin": "JA4AJVAW0VU602120",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/17ba4db2b728.html",
+      "condition": "new",
+      "price": 29699.0,
       "price_currency": "CAD"
     },
     {
@@ -2916,7 +3390,15 @@
       "vin": "JA4AJVAW0VU602070",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/011e682c5dcf.html",
       "condition": "new",
-      "price": 31983.0,
+      "price": 29699.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiRVRSE AWC4x4",
+      "vin": "JA4AJVAW0VU602070",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/24c72a8f2606.html",
+      "condition": "new",
+      "price": 29699.0,
       "price_currency": "CAD"
     },
     {
@@ -2924,7 +3406,31 @@
       "vin": "JA4AJVAW8VU602155",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/651357c4b9df.html",
       "condition": "new",
-      "price": 31983.0,
+      "price": 29699.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiRVRSE AWC4x4",
+      "vin": "JA4AJVAW8VU602155",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/2ee89de9ec71.html",
+      "condition": "new",
+      "price": 29699.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiRVRSEL AWC4x4",
+      "vin": "JA4AJVAW2VU603222",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/2f6904e4344a.html",
+      "condition": "new",
+      "price": 32753.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiRVRSEL AWC4x4",
+      "vin": "JA4AJVAW3VU603262",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/b5df60432dfa.html",
+      "condition": "new",
+      "price": 32753.0,
       "price_currency": "CAD"
     },
     {
@@ -2935,9 +3441,25 @@
     },
     {
       "name": "2027MitsubishiRVRSEL AWC4x4",
+      "vin": "JA4AJVAW1VU602630",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/471bc4f93f96.html",
+      "condition": "new",
+      "price": 32753.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027MitsubishiRVRSEL AWC4x4",
       "vin": "JA4AJVAW1VU602546",
       "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/8013109eed8e.html",
       "condition": "new"
+    },
+    {
+      "name": "2027MitsubishiRVRSEL AWC4x4",
+      "vin": "JA4AJVAW1VU602546",
+      "url": "https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/b78f1a701c02.html",
+      "condition": "new",
+      "price": 32753.0,
+      "price_currency": "CAD"
     }
   ]
 }

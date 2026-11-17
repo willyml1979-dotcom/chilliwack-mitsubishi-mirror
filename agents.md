@@ -7,7 +7,7 @@ Chilliwack Mitsubishi is a  dealership in Chilliwack. This site is an AI-readabl
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/used/ and https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/ (about 371 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/used/ and https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/new/ (about 437 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/llms.txt

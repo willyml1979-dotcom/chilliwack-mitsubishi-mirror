@@ -1,6 +1,6 @@
 # Chilliwack Mitsubishi
 
- dealership in Chilliwack. AI-readable inventory mirror, about 371 vehicles.
+ dealership in Chilliwack. AI-readable inventory mirror, about 437 vehicles.
 
 - Official website: https://www.chilliwackmitsubishi.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/chilliwack-mitsubishi-mirror/used/
